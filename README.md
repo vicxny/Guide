@@ -116,5 +116,5 @@ Summary:
 [How I Went from Newbie to Software Engineer in 9 Months While Working Full Time](https://www.freecodecamp.org/news/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847/)
 [Learning Coding on Your Own: Tips from Self Taught Programmers](https://www.youtube.com/watch?v=2BnEu5KYg4g)
 [How I Would Become a Web Developer in 6 Months | Legit Step By Step Tutorial](https://www.youtube.com/watch?v=vB4bSDznwgM&list=WL&index=14&t=5s)
-[https://www.youtube.com/watch?v=GiUDWx9NpMU](https://www.youtube.com/watch?v=GiUDWx9NpMU)
+[Teaching yourself to learn programming? Start Here!](https://www.youtube.com/watch?v=GiUDWx9NpMU)
 
