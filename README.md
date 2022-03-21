@@ -1,5 +1,7 @@
 # Guide
 
+[Notes](https://docs.google.com/document/d/1n91KMMQMKcyspaR4Kdwk39FpWFkSofbrLhIhMQ5iYb8/edit#heading=h.g16tii4l7pb3)
+
 ## Goals
 
 [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
