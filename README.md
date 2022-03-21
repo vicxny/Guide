@@ -70,11 +70,11 @@ Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&cal
 [Programing Project Ideas Get You Hired](https://www.youtube.com/watch?v=DEKxwH5hGfo)
 
 Summary:
-1. Full stack app.
-2. Single page app.
-3. Form validations.
-4. API.
-5. Developer tool.
+1. Full stack app
+2. Single page app
+3. Form validations
+4. API
+5. Developer tool
 
 ## Problems
 
