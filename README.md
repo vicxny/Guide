@@ -60,8 +60,11 @@ Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&cal
 ## Projects
 
 [Advanced React & GraphQL](https://advancedreact.com/)
+
 [JavaScript 30](https://javascript30.com/)
+
 [Programing Project Ideas Get You Hired]()
+
 [Code Tetris: JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=rAUn1Lom6dw&t=5s)
 
 ## Problems
