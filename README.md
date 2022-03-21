@@ -28,7 +28,7 @@ Bonus: [W3Schools](https://www.w3schools.com/) + [Git and GitHub](https://www.yo
 
 <br />
 
-[MDN Front-End Web Developer](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer#the_learning_pathway)
+[MDN Front-End Web Developer](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)
 
 Code Academy’s [Introduction to JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
