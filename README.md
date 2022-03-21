@@ -39,7 +39,7 @@ Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&cal
 ## Structure
 [The Odin Project](https://www.theodinproject.com/tracks/full-stack-javascript)
 
-[Freecodecamp](https://www.freecodecamp.org/learn/) - [Video](https://www.youtube.com/playlist?list=PLgBH1CvjOA62oNEVgz-dECiCZCE_Q3ZFH)
+[Freecodecamp](https://www.freecodecamp.org/learn/) - [Playlist](https://www.youtube.com/c/Freecodecamp/playlists) - [Video](https://www.youtube.com/playlist?list=PLgBH1CvjOA62oNEVgz-dECiCZCE_Q3ZFH)
 
 [100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsKwq3k2YEBQS17xUwfOA3O3)
 
@@ -59,6 +59,11 @@ Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&cal
 
 ## Projects
 
+[Advanced React & GraphQL](https://advancedreact.com/)
+[JavaScript 30](https://javascript30.com/)
+[Programing Project Ideas Get You Hired]()
+[Code Tetris: JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=rAUn1Lom6dw&t=5s)
+
 ## Problems
 
 [Codewars](https://www.codewars.com/)
@@ -73,10 +78,24 @@ Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&cal
 
 ## Books
 
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
+
+[The Modern JavaScript Tutorial](https://javascript.info/)
+
+[How to Design Programs](http://htdp.org/2003-09-26/)
+
+[Cracking the Coding Interview]()
+
+[The JavaScript Way](https://github.com/thejsway/thejsway)
+
+[HTML and CSS: Design and Build Websites](https://wtf.tw/ref/duckett.pdf)
+
+[A Smarter Way to Learn to JS](https://wccftech.com/wp-content/uploads/2014/10/JavaScript.pdf)
+
+## Post Extra
+
 [The Missing Semester of Your CS Education (MIT course)](https://www.reddit.com/r/learnprogramming/comments/eyagda/the_missing_semester_of_your_cs_education_mit/)
 
 [Main Study Python Goal](https://docs.google.com/document/d/1Yh2YRXG6bSQxvqghB3gkX6CYxqN_mGCkG4If5uZkc0U/edit#)
-
-## Post Extra
 
 ## Inspiration
