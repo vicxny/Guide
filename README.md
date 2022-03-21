@@ -108,3 +108,13 @@ Summary:
 
 [Main Study Python Goal](https://docs.google.com/document/d/1Yh2YRXG6bSQxvqghB3gkX6CYxqN_mGCkG4If5uZkc0U/edit#)
 
+## Inspiration
+
+[I’m a software developer who doesn’t know enough about computers and the internet. Where do I start?](https://www.reddit.com/r/learnprogramming/comments/krqhln/im_a_software_developer_who_doesnt_know_enough/)
+[Learn web development as an absolute beginner](https://www.youtube.com/watch?v=ysEN5RaKOlA)
+[How I switched careers to become a software engineer in 11 months](https://www.freecodecamp.org/news/how-i-switched-careers-to-become-a-software-engineer-in-11-months-and-how-you-can-too-9849afabc126/)
+[How I Went from Newbie to Software Engineer in 9 Months While Working Full Time](https://www.freecodecamp.org/news/how-i-went-from-newbie-to-software-engineer-in-9-months-while-working-full-time-460bd8485847/)
+[Learning Coding on Your Own: Tips from Self Taught Programmers](https://www.youtube.com/watch?v=2BnEu5KYg4g)
+[How I Would Become a Web Developer in 6 Months | Legit Step By Step Tutorial](https://www.youtube.com/watch?v=vB4bSDznwgM&list=WL&index=14&t=5s)
+[https://www.youtube.com/watch?v=GiUDWx9NpMU](https://www.youtube.com/watch?v=GiUDWx9NpMU)
+
