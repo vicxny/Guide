@@ -8,6 +8,8 @@
 
 [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics)
 
+[Python for Everybody Specialization](https://www.coursera.org/specializations/python)
+
 ## Prep
 
 [Keybr](https://www.keybr.com/) Goal Speed is 60 
