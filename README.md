@@ -55,7 +55,7 @@ Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&cal
 
 ## Data Stucture and Algorithm
 
-[Khan Academy's Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
 [Data Structures for Beginners](https://www.youtube.com/watch?v=YOfXMQnUlZY)
 
