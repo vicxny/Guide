@@ -110,6 +110,8 @@ Summary:
 
 [The Missing Semester of Your CS Education (MIT course)](https://www.reddit.com/r/learnprogramming/comments/eyagda/the_missing_semester_of_your_cs_education_mit/)
 
+[ForrestKnight/open-source-cs-python](https://github.com/ForrestKnight/open-source-cs-python)
+
 [Main Study Python Goal](https://docs.google.com/document/d/1Yh2YRXG6bSQxvqghB3gkX6CYxqN_mGCkG4If5uZkc0U/edit#)
 
 ## Inspiration
