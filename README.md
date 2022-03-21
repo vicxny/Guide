@@ -41,8 +41,25 @@ Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&cal
 [The Coding Nomad](https://app.milanote.com/publish-preview/1Hdwhe1GsYO56q)
 
 ## Structure
+[The Odin Project](https://www.theodinproject.com/tracks/full-stack-javascript)
+
+[Freecodecamp](https://www.freecodecamp.org/learn/) - [Video](https://www.youtube.com/playlist?list=PLgBH1CvjOA62oNEVgz-dECiCZCE_Q3ZFH)
+
+[100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsKwq3k2YEBQS17xUwfOA3O3)
+
+[Full Stack Open](https://fullstackopen.com/en/)
+
+[The Complete Web Developer](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
+
+[The Web Developer Bootcamp](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 
 ## Data Stucture and Algorithm
+
+[Khan Academy's Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+
+[Data Structures for Beginners](https://www.youtube.com/watch?v=YOfXMQnUlZY)
+
+[JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 
 ## Projects
 
