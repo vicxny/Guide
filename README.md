@@ -22,6 +22,8 @@
 
 Bonus: [W3Schools](https://www.w3schools.com/) + [Git and GitHub](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
+<br />
+<br />
 
 [MDN-Front-end web developer](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer#the_learning_pathway)
 
@@ -31,10 +33,12 @@ Strongly Recommended: Gordon Zhu’s [Watch and Code](https://watchandcode.com/)
 
 Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&callbackUrl=https://learn.fullstackacademy.com/workshop)
 
+<br />
+<br />
+
 ## Road Map
 
 [The Coding Nomad](https://app.milanote.com/publish-preview/1Hdwhe1GsYO56q)
-
 
 ## Structure
 
