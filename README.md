@@ -65,6 +65,14 @@ Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&cal
 
 [Code Tetris: JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=rAUn1Lom6dw&t=5s)
 
+[Programing Project Ideas Get You Hired](https://www.youtube.com/watch?v=DEKxwH5hGfo)
+Summary:
+1. Full stack app.
+2. Single page app.
+3. Form validations.
+4. API.
+5. Developer tool.
+
 ## Problems
 
 [Codewars](https://www.codewars.com/)
