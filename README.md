@@ -130,6 +130,8 @@ Summary:
 
 [I’m a software developer who doesn’t know enough about computers and the internet. Where do I start?](https://www.reddit.com/r/learnprogramming/comments/krqhln/im_a_software_developer_who_doesnt_know_enough/)
 
+[Industrial Engineer to Software Engineer](https://www.danielleskosky.com/industrial-engineer-to-software-engineer/)
+
 
 
 
