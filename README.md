@@ -42,6 +42,8 @@ Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&cal
 
 ## Language
 
+[The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) 
+
 ## Structure
 [The Odin Project](https://www.theodinproject.com/tracks/full-stack-javascript)
 
