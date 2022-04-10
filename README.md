@@ -40,6 +40,8 @@ Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&cal
 
 [The Coding Nomad](https://app.milanote.com/publish-preview/1Hdwhe1GsYO56q)
 
+## Language
+
 ## Structure
 [The Odin Project](https://www.theodinproject.com/tracks/full-stack-javascript)
 
