@@ -4,8 +4,6 @@
 
 ## Goals
 
-[IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
-
 [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics)
 
 [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
