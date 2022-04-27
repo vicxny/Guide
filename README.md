@@ -75,9 +75,13 @@ Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&cal
 
 Summary:
 [ ] 1. Full stack app 
+
 [ ] 2. Single page app 
+
 [ ] 3. Form validations
+
 [ ] 4. API
+
 [ ] 5. Developer tool
 
 ## Problems
