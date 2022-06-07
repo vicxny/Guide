@@ -8,6 +8,7 @@
 - [ ] [Python for Everybody Specialization](https://www.youtube.com/watch?v=8DvywoWv6fI)
 - [ ] [CodeSmith Prep](https://github.com/vicxny/CodeSmith-Prep)
 - [ ] [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+- [ ] [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/?src=sac&kw=The+Ultimate+MySQL+Bootcamp%3A+Go+from+SQL+Beginner+to+Expert)
 - [ ] [100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S)
 
 ## Prep
