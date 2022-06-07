@@ -8,7 +8,7 @@
 - [ ] [Python for Everybody Specialization](https://www.youtube.com/watch?v=8DvywoWv6fI)
 - [ ] [CodeSmith Prep](https://github.com/vicxny/CodeSmith-Prep)
 - [ ] [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
-- [ ] [100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsKwq3k2YEBQS17xUwfOA3O3)
+- [ ] [100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S)
 
 ## Prep
 
