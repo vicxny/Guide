@@ -4,7 +4,7 @@
 
 ## Goals
 
-- [ ] [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics) -[Google Drive](https://drive.google.com/drive/u/0/folders/13_lqvmImGjxmA8RkQl1Ddh1A6mOj-CDI)
+- [ ] [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics) -[Data-Analyst/Coursera/Certificate](https://drive.google.com/drive/u/0/folders/13_lqvmImGjxmA8RkQl1Ddh1A6mOj-CDI)
 - [ ] [Python for Everybody Specialization](https://www.youtube.com/watch?v=8DvywoWv6fI) -[Coursera/Program For Everybody](https://github.com/vicxny/Coursera/tree/main/Program%20For%20Everybody)
 - [ ] [CodeSmith Prep](https://github.com/vicxny/CodeSmith-Prep)
 - [ ] [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) -[Udemy/Web Development](https://github.com/vicxny/Udemy/tree/main/Web%20Development/The%20Complete%20JavaScript%20Course%202022%20From%20Zero%20to%20Expert!)
