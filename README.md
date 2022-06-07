@@ -4,12 +4,12 @@
 
 ## Goals
 
-- [ ] [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics)
-- [ ] [Python for Everybody Specialization](https://www.youtube.com/watch?v=8DvywoWv6fI)
+- [ ] [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics) -[Location](https://drive.google.com/drive/u/0/folders/13_lqvmImGjxmA8RkQl1Ddh1A6mOj-CDI)
+- [ ] [Python for Everybody Specialization](https://www.youtube.com/watch?v=8DvywoWv6fI) -[Location](https://github.com/vicxny/Coursera/tree/main/Program%20For%20Everybody)
 - [ ] [CodeSmith Prep](https://github.com/vicxny/CodeSmith-Prep)
-- [ ] [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
-- [ ] [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/?src=sac&kw=The+Ultimate+MySQL+Bootcamp%3A+Go+from+SQL+Beginner+to+Expert)
-- [ ] [100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S)
+- [ ] [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) -[Location](https://github.com/vicxny/Udemy/tree/main/Web%20Development/The%20Complete%20JavaScript%20Course%202022%20From%20Zero%20to%20Expert!)
+- [ ] [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/?src=sac&kw=The+Ultimate+MySQL+Bootcamp%3A+Go+from+SQL+Beginner+to+Expert) -[Location](https://github.com/vicxny/Data-Analyst/tree/main/Udemy/The%20Ultimate%20MySQL%20Bootcamp%20Go%20from%20SQL%20Beginner%20to%20Expert)
+- [ ] [100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S) -[Location](https://github.com/vicxny/Free-Courses/tree/main/100Devs)
 
 ## Prep
 
