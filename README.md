@@ -3,14 +3,16 @@
 [Notes](https://docs.google.com/document/d/1n91KMMQMKcyspaR4Kdwk39FpWFkSofbrLhIhMQ5iYb8/edit#heading=h.g16tii4l7pb3)
 
 ## Goals
+- [ ] [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) -[Udemy/Web Development](https://github.com/vicxny/Udemy/tree/main/Web%20Development/The%20Complete%20JavaScript%20Course%202022%20From%20Zero%20to%20Expert!)
+- [ ] [Data Structure & Algorithms](https://github.com/vicxny/Data-Structures-and-Algorithms)
+- [ ] [100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S) -[Free-Courses/100Devs](https://github.com/vicxny/Free-Courses/tree/main/100Devs)
+- [ ] [CodeSmith Prep](https://github.com/vicxny/CodeSmith-Prep)
+- [ ] [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 
 - [ ] [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics) -[Coursera/Data Analytics/Certificate](https://drive.google.com/drive/u/0/folders/13_lqvmImGjxmA8RkQl1Ddh1A6mOj-CDI)
-- [ ] [Python for Everybody Specialization](https://www.youtube.com/watch?v=8DvywoWv6fI) -[Coursera/Program For Everybody](https://github.com/vicxny/Coursera/tree/main/Program%20For%20Everybody)
-- [ ] [CodeSmith Prep](https://github.com/vicxny/CodeSmith-Prep)
-- [ ] [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) -[Udemy/Web Development](https://github.com/vicxny/Udemy/tree/main/Web%20Development/The%20Complete%20JavaScript%20Course%202022%20From%20Zero%20to%20Expert!)
 - [ ] [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/?src=sac&kw=The+Ultimate+MySQL+Bootcamp%3A+Go+from+SQL+Beginner+to+Expert) -[Udemy/Data Analytics](https://github.com/vicxny/Udemy/tree/main/Data%20Analytics)
-- [ ] [100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S) -[Free-Courses/100Devs](https://github.com/vicxny/Free-Courses/tree/main/100Devs)
-- [ ] [Data Structure & Algorithms](https://github.com/vicxny/Data-Structures-and-Algorithms)
+
+
 
 ## Prep
 
