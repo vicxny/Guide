@@ -10,6 +10,7 @@
 - [ ] [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) -[Udemy/Web Development](https://github.com/vicxny/Udemy/tree/main/Web%20Development/The%20Complete%20JavaScript%20Course%202022%20From%20Zero%20to%20Expert!)
 - [ ] [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/?src=sac&kw=The+Ultimate+MySQL+Bootcamp%3A+Go+from+SQL+Beginner+to+Expert) -[Udemy/Data Analytics](https://github.com/vicxny/Udemy/tree/main/Data%20Analytics)
 - [ ] [100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S) -[Free-Courses/100Devs](https://github.com/vicxny/Free-Courses/tree/main/100Devs)
+- [ ] [Data Structure & Algorithms](https://github.com/vicxny/Data-Structures-and-Algorithms)
 
 ## Prep
 
