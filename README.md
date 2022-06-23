@@ -3,7 +3,7 @@
 [Notes](https://docs.google.com/document/d/1n91KMMQMKcyspaR4Kdwk39FpWFkSofbrLhIhMQ5iYb8/edit#heading=h.g16tii4l7pb3)
 
 ## Goals
-- [ ] [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) (https://github.com/vicxny/Udemy/tree/main/Web%20Development/The%20Complete%20JavaScript%20Course%202022%20From%20Zero%20to%20Expert!)
+- [ ] [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) 
 - [ ] [Data Structure & Algorithms](https://github.com/vicxny/Data-Structures-and-Algorithms)
 - [ ] [100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S) -[Free-Courses/100Devs](https://github.com/vicxny/Free-Courses/tree/main/100Devs)
 - [ ] [CodeSmith Prep](https://github.com/vicxny/CodeSmith-Prep)
