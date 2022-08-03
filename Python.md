@@ -1,5 +1,7 @@
 # Python
 
+[DOC](https://docs.python.org/3/)
+
 ##  [Programming For Everybody](https://online.dr-chuck.com/) - [Master Programmer](https://www.youtube.com/watch?v=z3o6yEzcnLc&list=PLCQPtDKqOL2Mw2LqdGfCirOzrnJmMA9hZ&index=5&t=1413s)
 
 Courses | Offered by | Type | Month | Pace | Video | Time |
