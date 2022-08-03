@@ -7,6 +7,9 @@
 
 ## Data Stucture and Algorithm
 
+You don't need to buy a bunch of these. Honestly "Cracking the Coding Interview" is probably enough, 
+but I bought more to give myself more practice. But I always do too much.
+
 [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html)
 
 [Data Structures and Algorithms in Python](http://xpzhang.me/teach/DS19_Fall/book.pdf)
@@ -26,8 +29,6 @@ Courses | Offered by | Type | Month | Pace | Video | Time |
 [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications) | University of Michigan | Web Application | Approximately 6 months | 5 hours/week | [Video](https://www.youtube.com/watch?v=xr6uZDRTna0&list=PLCQPtDKqOL2Mw2LqdGfCirOzrnJmMA9hZ&index=4) | 14:29:41 |
 [PostgreSQL for Everybody Specialization](https://www.coursera.org/specializations/postgresql-for-everybody) | University of Michigan | PostgreSQL | Approximately 4 months | 4 hours/week | [Video](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Oj3ndXmNS1FFOUyQP-gEa) |
 
-You don't need to buy a bunch of these. Honestly "Cracking the Coding Interview" is probably enough, 
-but I bought more to give myself more practice. But I always do too much.
 
 Summary:
 1. Full stack app 
