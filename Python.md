@@ -1,11 +1,9 @@
 ### Python
 
 
-
-
-
-
 ## Structure
+
+
 
 ## Data Stucture and Algorithm
 
@@ -13,15 +11,14 @@
 
 [Data Structures and Algorithms in Python](http://xpzhang.me/teach/DS19_Fall/book.pdf)
 
-##  [Programming For Everybody](https://online.dr-chuck.com/) - [Master Programmer](https://www.youtube.com/watch?v=z3o6yEzcnLc&list=PLCQPtDKqOL2Mw2LqdGfCirOzrnJmMA9hZ&index=5&t=1413s)
-
 
 ### If you have tons of extra time:
 
-Choose one:
-
 - [Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
-- 
+
+
+##  [Programming For Everybody](https://online.dr-chuck.com/) - [Master Programmer](https://www.youtube.com/watch?v=z3o6yEzcnLc&list=PLCQPtDKqOL2Mw2LqdGfCirOzrnJmMA9hZ&index=5&t=1413s)
+
 Courses | Offered by | Type | Month | Pace | Video | Time |
 :-- | :--: | :--: | :--: | :--: | :--: | :--: |
 [Python for Everybody Specialization](https://www.coursera.org/specializations/python) | University of Michigan | Python | Approximately 8 months | 3 hours/week | [Video](https://www.youtube.com/watch?v=8DvywoWv6fI&list=PLCQPtDKqOL2Mw2LqdGfCirOzrnJmMA9hZ&index=1&t=119s) | 13:40:09 |
