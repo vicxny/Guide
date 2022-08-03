@@ -10,3 +10,9 @@
 
 You don't need to buy a bunch of these. Honestly "Cracking the Coding Interview" is probably enough, 
 but I bought more to give myself more practice. But I always do too much.
+
+### If you have tons of extra time:
+
+Choose one:
+
+- [Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
