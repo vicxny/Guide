@@ -22,6 +22,10 @@ Choose one:
 
 ## Data Stucture and Algorithm
 
+[Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html)
+
+[Data Structures and Algorithms in Python](http://xpzhang.me/teach/DS19_Fall/book.pdf)
+
 Summary:
 1. Full stack app 
 2. Single page app 
@@ -40,3 +44,7 @@ Summary:
 [Ranking Interview Questions by Cram Score](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score)
 
 [Grokking](https://www.educative.io/courses/grokking-the-coding-interview)
+
+
+## Supplementary
+[The Python Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs-python) 
