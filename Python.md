@@ -29,6 +29,9 @@ but I bought more to give myself more practice. But I always do too much.
 [Data Structures and Algorithms in Python](http://xpzhang.me/teach/DS19_Fall/book.pdf)
 
 
+Video
+[Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
+
 ### If you have tons of extra time:
 
 - [Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
