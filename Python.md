@@ -24,6 +24,7 @@ Courses | Instructor | Type | Duration |
 
 [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
+
 ## Data Stucture and Algorithm
 
 You don't need to buy a bunch of these. Honestly "Cracking the Coding Interview" is probably enough, 
@@ -64,7 +65,11 @@ Summary:
 
 [Grokking](https://www.educative.io/courses/grokking-the-coding-interview)
 
+[Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
+
+
 
 ## Supplementary
 [The Python Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs-python) 
+
 
