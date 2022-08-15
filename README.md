@@ -75,7 +75,7 @@ Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&cal
 
 ## Systems Design
 
-(donnemartin/system-design-primer)[https://github.com/donnemartin/system-design-primer]
+[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 
 ## Projects
 
