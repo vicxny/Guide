@@ -33,10 +33,6 @@ but I bought more to give myself more practice. But I always do too much.
 
 [Data Structures and Algorithms in Python](http://xpzhang.me/teach/DS19_Fall/book.pdf)
 
-## Systems Design
-
-[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-
 Video:
 [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
 
@@ -44,6 +40,10 @@ Video:
 
 - [Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
 
+
+## Systems Design
+
+[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 
 Summary:
 1. Full stack app 
