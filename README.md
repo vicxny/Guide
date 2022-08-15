@@ -63,6 +63,8 @@ Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&cal
 
 ## Data Stucture and Algorithm
 
+[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+
 [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
 [Data Structures for Beginners](https://www.youtube.com/watch?v=YOfXMQnUlZY)
