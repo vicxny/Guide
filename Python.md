@@ -18,6 +18,11 @@ Courses | Instructor | Type | Duration |
 [Complete Python Developer in 2022: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/) | Andrei Neagoie | Python | 30.5 hours |
 [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) | Dr.Angela Yu | Python |  64 hours | 
 
+## Interviews
+
+[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+
+[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
 ## Data Stucture and Algorithm
 
@@ -28,6 +33,9 @@ but I bought more to give myself more practice. But I always do too much.
 
 [Data Structures and Algorithms in Python](http://xpzhang.me/teach/DS19_Fall/book.pdf)
 
+## Systems Design
+
+[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 
 Video:
 [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
@@ -60,4 +68,3 @@ Summary:
 ## Supplementary
 [The Python Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs-python) 
 
-[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
