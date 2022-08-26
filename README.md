@@ -73,6 +73,8 @@ Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&cal
 
 [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 
+[Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
+
 ## Systems Design
 
 [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
@@ -106,7 +108,6 @@ Summary:
 
 [Grokking](https://www.educative.io/courses/grokking-the-coding-interview)
 
-[Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
 
 
 ## Books
