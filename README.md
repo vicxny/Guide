@@ -106,7 +106,7 @@ Summary:
 
 [Ranking Interview Questions by Cram Score](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score)
 
-[Grokking](https://www.educative.io/courses/grokking-the-coding-interview)
+[Grokking](https://designgurus.org/course/grokking-the-coding-interview)
 
 
 
