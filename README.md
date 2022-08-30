@@ -61,11 +61,6 @@ Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&cal
 
 [The Web Developer Bootcamp](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 
-## Interviews
-
-[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-
-[jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 
 ## Data Stucture and Algorithm
 
@@ -74,6 +69,10 @@ Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&cal
 [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 
 [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
+
+## Interviews
+
+[yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 
 ## Systems Design
 
