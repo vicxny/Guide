@@ -1,5 +1,7 @@
 # [Python](https://docs.python.org/3/)
 
+[FreeCodeCamp](https://www.freecodecamp.org/learn) - [Playlist](https://www.youtube.com/c/Freecodecamp/playlists)
+
 
 ##  [Programming For Everybody](https://online.dr-chuck.com/) - [Master Programmer](https://www.youtube.com/watch?v=z3o6yEzcnLc&list=PLCQPtDKqOL2Mw2LqdGfCirOzrnJmMA9hZ&index=5&t=1413s)
 
