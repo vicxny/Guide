@@ -1,5 +1,7 @@
 # [Python](https://docs.python.org/3/)
 
+[Codeacademy's Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
+
 [FreeCodeCamp](https://www.freecodecamp.org/learn) - [Playlist](https://www.youtube.com/c/Freecodecamp/playlists)
 
 
