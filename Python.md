@@ -20,9 +20,6 @@ Courses | Instructor | Type | Duration |
 [Complete Python Developer in 2022: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/) | Andrei Neagoie | Python | 30.5 hours |
 [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) | Dr.Angela Yu | Python |  64 hours | 
 
-Courses | Offered by | Type | Month | Pace |
-:-- | :--: | :--: | :--: | :--: |
-[Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming) | University of Michigan | Python | Approximately 5 months | 7 hours/week | 
 
 ## Interviews
 
