@@ -61,7 +61,7 @@ Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&cal
 
 [The Complete Web Developer](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
 
-[The Web Developer Bootcamp](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/)
+[The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
 
 ## Data Stucture and Algorithm
