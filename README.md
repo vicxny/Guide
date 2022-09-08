@@ -40,9 +40,11 @@ Strongly Recommended: Gordon Zhu’s [Watch and Code](https://watchandcode.com/)
 
 Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&callbackUrl=https://learn.fullstackacademy.com/workshop)
 
+
 ## Road Map
 
 [The Coding Nomad](https://app.milanote.com/publish-preview/1Hdwhe1GsYO56q)
+
 
 ## Language
 
@@ -80,7 +82,7 @@ Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&cal
 
 ## Projects
 
-[Advanced React & GraphQL](https://advancedreact.com/)
+[Advanced React & GraphQL](https://advancedreact.com/) - [Login](https://wesbos.com/courses)
 
 [JavaScript 30](https://javascript30.com/)
 
