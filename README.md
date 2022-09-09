@@ -3,13 +3,14 @@
 [Notes](https://docs.google.com/document/d/1n91KMMQMKcyspaR4Kdwk39FpWFkSofbrLhIhMQ5iYb8/edit#heading=h.g16tii4l7pb3)
 
 ## Goals
-- [ ] [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) - [Javascript](https://github.com/vicxny/Javascipt)
-- [ ] [Data Structure & Algorithms](https://github.com/vicxny/Data-Structures-and-Algorithms)
-- [ ] [100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S) - [Cohort-2](https://github.com/vicxny/Cohort-2)
+- [ ]  [Javascript](https://github.com/vicxny/Javascipt) - [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
+- [ ] [Notes]() - [Data Structure & Algorithms](https://github.com/vicxny/Data-Structures-and-Algorithms)
+- [ ] [Cohort-2](https://github.com/vicxny/Cohort-2)- [100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S)
 - [ ] [CodeSmith Prep](https://github.com/vicxny/CodeSmith-Prep)
-- [ ] [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) -[Python](https://github.com/vicxny/Python)
+- [ ] [Python](https://github.com/vicxny/Python) - [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
+- [ ] [SQL](https://github.com/vicxny/SQL) - [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/?src=sac&kw=The+Ultimate+MySQL+Bootcamp%3A+Go+from+SQL+Beginner+to+Expert)
 - [ ] [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics)
-- [ ] [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/?src=sac&kw=The+Ultimate+MySQL+Bootcamp%3A+Go+from+SQL+Beginner+to+Expert) - [SQL](https://github.com/vicxny/SQL)
+
 
 
 
