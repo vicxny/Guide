@@ -7,10 +7,10 @@
 - [ ] [Data Structure & Algorithms](https://github.com/vicxny/Data-Structures-and-Algorithms)
 - [ ] [100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S) - [Cohort-2](https://github.com/vicxny/Cohort-2)
 - [ ] [CodeSmith Prep](https://github.com/vicxny/CodeSmith-Prep)
-- [ ] [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
+- [ ] [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) -[Python](https://github.com/vicxny/Python)
 - [ ] [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics)
 - [ ] [Meta Social Media Marketing Professional Certificate](https://www.coursera.org/professional-certificates/facebook-social-media-marketing#courses)
-- [ ] [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/?src=sac&kw=The+Ultimate+MySQL+Bootcamp%3A+Go+from+SQL+Beginner+to+Expert) 
+- [ ] [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/?src=sac&kw=The+Ultimate+MySQL+Bootcamp%3A+Go+from+SQL+Beginner+to+Expert) - [SQL](https://github.com/vicxny/SQL)
 
 
 
