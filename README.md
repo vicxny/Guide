@@ -5,7 +5,7 @@
 ## Goals
 - [ ] [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/) - [Javascript](https://github.com/vicxny/Javascipt)
 - [ ] [Data Structure & Algorithms](https://github.com/vicxny/Data-Structures-and-Algorithms)
-- [ ] [100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S) -[Cohort-2](https://github.com/vicxny/Cohort-2)
+- [ ] [100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S) - [Cohort-2](https://github.com/vicxny/Cohort-2)
 - [ ] [CodeSmith Prep](https://github.com/vicxny/CodeSmith-Prep)
 - [ ] [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 - [ ] [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics)
