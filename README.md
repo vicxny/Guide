@@ -9,6 +9,9 @@
 - [ ] [CodeSmith Prep](https://github.com/vicxny/CodeSmith-Prep)
 - [ ] [Python](https://github.com/vicxny/Python) - [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 - [ ] [SQL](https://github.com/vicxny/SQL) - [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/?src=sac&kw=The+Ultimate+MySQL+Bootcamp%3A+Go+from+SQL+Beginner+to+Expert)
+- [ ] [Meta React Native Specialization](https://www.coursera.org/specializations/meta-react-native)
+- [ ] [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer#courses)
+- [ ] [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
 - [ ] [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics)
 
 
