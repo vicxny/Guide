@@ -1,5 +1,9 @@
 # [Python](https://docs.python.org/3/)
 
+## Goal
+- [ ] [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer#courses)
+- [ ] [Python](https://github.com/vicxny/Python) - [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
+
 [Codeacademy's Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 
 [FreeCodeCamp](https://www.freecodecamp.org/learn) - [Playlist](https://www.youtube.com/c/Freecodecamp/playlists)
@@ -71,7 +75,6 @@ Summary:
 [Grokking](https://www.educative.io/courses/grokking-the-coding-interview)
 
 [Comprehensive Data Structure and Algorithm Study Guide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
-
 
 
 ## Supplementary
