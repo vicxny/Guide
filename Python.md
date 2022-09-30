@@ -5,10 +5,6 @@
 
 ## Goal
 - [ ] [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer#courses)
-- [ ] [Python](https://github.com/vicxny/Python) - [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
-
-
-
 
 ##  [Programming For Everybody](https://online.dr-chuck.com/) - [Master Programmer](https://www.youtube.com/watch?v=z3o6yEzcnLc&list=PLCQPtDKqOL2Mw2LqdGfCirOzrnJmMA9hZ&index=5&t=1413s)
 
