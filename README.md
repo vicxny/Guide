@@ -4,15 +4,15 @@
 
 ## Goals
 - [ ]  [Javascript](https://github.com/vicxny/Javascipt) - [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
-- [ ] [Notes]() - [Data Structure & Algorithms](https://github.com/vicxny/Data-Structures-and-Algorithms)
 - [ ] [Cohort-2](https://github.com/vicxny/Cohort-2)- [100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S)
 - [ ] [CodeSmith Prep](https://github.com/vicxny/CodeSmith-Prep)
+
+- [ ] [Notes]() - [Data Structure & Algorithms](https://github.com/vicxny/Data-Structures-and-Algorithms)
+
 - [ ] [Meta React Native Specialization](https://www.coursera.org/specializations/meta-react-native)
-- [ ] [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer#courses)
 - [ ] [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
+
 - [ ] [Meta Marketing Analytics Professional Certificate](https://www.coursera.org/professional-certificates/facebook-marketing-analytics)
-
-
 
 
 ## Prep
