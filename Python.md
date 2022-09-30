@@ -25,6 +25,7 @@ Courses | Instructor | Type | Duration |
 
 ## Class
 [Berkeley's CS61A class (Structure and Interpretation of Computer Programs - In Python)](https://cs61a.org/)
+
 [Composing Programs](https://composingprograms.com/)
 
 ## Interviews
