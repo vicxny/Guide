@@ -7,7 +7,6 @@
 - [ ] [Notes]() - [Data Structure & Algorithms](https://github.com/vicxny/Data-Structures-and-Algorithms)
 - [ ] [Cohort-2](https://github.com/vicxny/Cohort-2)- [100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S)
 - [ ] [CodeSmith Prep](https://github.com/vicxny/CodeSmith-Prep)
-- [ ] [Python](https://github.com/vicxny/Python) - [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/)
 - [ ] [Meta React Native Specialization](https://www.coursera.org/specializations/meta-react-native)
 - [ ] [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer#courses)
 - [ ] [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
