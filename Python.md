@@ -23,6 +23,9 @@ Courses | Instructor | Type | Duration |
 [Complete Python Developer in 2022: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/) | Andrei Neagoie | Python | 30.5 hours |
 [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) | Dr.Angela Yu | Python |  64 hours | 
 
+## Class
+[Berkeley's CS61A class (Structure and Interpretation of Computer Programs - In Python)](https://cs61a.org/)
+[Composing Programs](https://composingprograms.com/)
 
 ## Interviews
 
