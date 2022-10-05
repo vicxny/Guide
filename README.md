@@ -27,6 +27,8 @@
 
 [Introduction to Computer Science - Harvard's CS50](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)
 
+[Building Dynamic Websites - Harvard's CS75](http://cdn.cs75.net/2012/summer/)-[Video](https://www.youtube.com/playlist?list=PLSlcu3sMjsc9QoiHpdEWF246A4eVCjBUQ)
+
 Bonus: [W3Schools](https://www.w3schools.com/) + [Git and GitHub](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 
 <br />
