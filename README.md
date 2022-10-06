@@ -1,7 +1,5 @@
 # Guide
 
-[Notes](https://docs.google.com/document/d/1n91KMMQMKcyspaR4Kdwk39FpWFkSofbrLhIhMQ5iYb8/edit#heading=h.g16tii4l7pb3)
-
 ## Goals
 - [ ]  [Javascript](https://github.com/vicxny/Javascipt) - [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 - [ ] [Cohort-2](https://github.com/vicxny/Cohort-2)- [100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S)
