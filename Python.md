@@ -18,9 +18,6 @@ Courses | Offered by | Type | Month | Pace | Video | Time |
 [PostgreSQL for Everybody Specialization](https://www.coursera.org/specializations/postgresql-for-everybody) | University of Michigan | PostgreSQL | Approximately 4 months | 4 hours/week | [Video](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Oj3ndXmNS1FFOUyQP-gEa) |
 
 
-## Road Map
-
-[RoadMap.sh](https://roadmap.sh/)
 
 ## Structure
 
@@ -29,6 +26,11 @@ Courses | Instructor | Type | Duration |
 [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/) | Al Sweigart | Python | 9.5 hours | 
 [Complete Python Developer in 2022: Zero to Mastery](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/) | Andrei Neagoie | Python | 30.5 hours |
 [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) | Dr.Angela Yu | Python |  64 hours | 
+
+## Road Map
+
+[RoadMap.sh](https://roadmap.sh/)
+
 
 ## Class
 [Berkeley's CS61A class (Structure and Interpretation of Computer Programs - In Python)](https://cs61a.org/)
