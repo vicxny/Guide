@@ -1,6 +1,8 @@
 # [Python](https://docs.python.org/3/)
 [Codeacademy's Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 
+[MIT OpenCourseWare - Computer Science](https://www.youtube.com/@mitocw/playlists?view=50&sort=dd&shelf_id=5)
+
 [FreeCodeCamp](https://www.freecodecamp.org/learn) - [Playlist](https://www.youtube.com/c/Freecodecamp/playlists)
 
 ## Goal
