@@ -97,4 +97,7 @@ Summary
 ## Supplementary
 [The Python Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs-python) 
 
+[The Missing Semester of Your CS Education (MIT course)](https://www.reddit.com/r/learnprogramming/comments/eyagda/the_missing_semester_of_your_cs_education_mit/)
+
+
 
