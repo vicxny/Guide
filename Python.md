@@ -70,7 +70,7 @@ Video:
 
 [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 
-Summary:
+## Summary
 1. Full stack app 
 2. Single page app 
 3. Form validations
