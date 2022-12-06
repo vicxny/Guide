@@ -1,9 +1,14 @@
 # [Python](https://docs.python.org/3/)
+
 [Codeacademy's Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 
 [MIT OpenCourseWare - Computer Science](https://www.youtube.com/@mitocw/playlists?view=50&sort=dd&shelf_id=5)
 
 [FreeCodeCamp](https://www.freecodecamp.org/learn) - [Playlist](https://www.youtube.com/c/Freecodecamp/playlists)
+
+[Automate the Boring Stuff with Python](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
+
+[Beyond the Basic Stuff with Python](https://www.youtube.com/playlist?list=PL0-84-yl1fUmeV_2bBSguF_S0TVZk8wow)
 
 ## Goal
 - [ ] [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer#courses)
