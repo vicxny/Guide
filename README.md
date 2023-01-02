@@ -69,7 +69,6 @@ Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&cal
 
 ## Data Stucture and Algorithm
 
-[Data Structures for Beginners](https://www.youtube.com/watch?v=YOfXMQnUlZY)
 
 [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 
