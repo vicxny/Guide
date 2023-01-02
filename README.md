@@ -15,7 +15,7 @@
 
 ## Prep
 
-[Keybr](https://www.keybr.com/) and [Typing Club](https://www.typingclub.com/) Goal Speed is 60 
+[Keybr](https://www.keybr.com/) and [Typing Club](https://www.typingclub.com/) Goal Speed is 70
 
 [How To Think Like A Programmer](https://www.youtube.com/watch?v=azcrPFhaY9k)
 
