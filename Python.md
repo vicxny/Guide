@@ -14,6 +14,7 @@
 
 ## Goal
 - [ ] [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer#courses)
+- [ ] [Python, Bash and SQL Essentials for Data Engineering Specialization](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke#courses)
 
 ##  [Programming For Everybody](https://online.dr-chuck.com/) - [Master Programmer](https://www.youtube.com/watch?v=z3o6yEzcnLc&list=PLCQPtDKqOL2Mw2LqdGfCirOzrnJmMA9hZ&index=5&t=1413s)
 
