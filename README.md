@@ -2,7 +2,7 @@
 
 ## Goals
 - [ ]  [Javascript](https://github.com/vicxny/Javascipt) - [The Complete JavaScript Course 2022: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
-- [ ] [Cohort-2](https://github.com/vicxny/Cohort-2)- [100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S)
+- [ ] [Cohort-2](https://github.com/vicxny/Cohort-2)- [100Devs](https://www.youtube.com/playlist?list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S): Class 35
 - [ ] [CodeSmith Prep](https://github.com/vicxny/CodeSmith-Prep) 
 
 - [ ] [Data Structure & Algorithms](https://github.com/vicxny/Data-Structures-and-Algorithms) - [Notes](https://drive.google.com/drive/folders/1wa5npIJAOfv5npYWXDpVHJ1GwMlQRjIj) 
