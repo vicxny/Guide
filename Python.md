@@ -2,6 +2,8 @@
 
 [Codeacademy's Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 
+[HACKBRIGHT PREP COURSE - LEARN PYTHON FUNDAMENTALS](https://hackbrightacademy.com/prep/)
+
 [FreeCodeCamp](https://www.freecodecamp.org/learn) - [Playlist](https://www.youtube.com/c/Freecodecamp/playlists)
 
 [Automate the Boring Stuff with Python](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
