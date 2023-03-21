@@ -20,10 +20,6 @@
 
 [How To Think Like A Programmer](https://www.youtube.com/watch?v=azcrPFhaY9k)
 
-[The Myth of the Genius Programmer](https://www.youtube.com/watch?v=0SARbwvhupQ)
-
-[It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
-
 [Introduction to Programming and Computer Science](https://www.youtube.com/watch?v=zOjov-2OZ0E)
 
 [Introduction to Computer Science - Harvard's CS50](https://cs50.harvard.edu/web/2020/)- [Video](https://www.youtube.com/playlist?list=PLWKjhJtqVAbmGw5fN5BQlwuug-8bDmabi)
