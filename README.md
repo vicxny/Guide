@@ -89,8 +89,6 @@ Extra: [Fullstack Academy Prep](https://welcome.fullstackacademy.com/#?login&cal
 
 [JavaScript 30](https://javascript30.com/)
 
-[Programing Project Ideas Get You Hired](https://www.youtube.com/watch?v=DEKxwH5hGfo)
-
 [Maximilian Schwarzmüller's MERN Fullstack Guide](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/)
 
 [John Smilga's MERN Stack Course](https://www.udemy.com/course/mern-stack-course-mongodb-express-react-and-nodejs/)
