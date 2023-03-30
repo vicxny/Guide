@@ -1,5 +1,8 @@
 # [Python](https://docs.python.org/3/)
 
+
+[CS50's Introduction to Programming with Python (CS50P) 2022](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
+
 [Codeacademy's Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 
 [HACKBRIGHT PREP COURSE - LEARN PYTHON FUNDAMENTALS](https://hackbrightacademy.com/prep/)
