@@ -115,9 +115,15 @@ Summary
 
 
 ## Supplementary
+
 [The Python Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs-python) 
 
 [The Missing Semester of Your CS Education (MIT course)](https://www.reddit.com/r/learnprogramming/comments/eyagda/the_missing_semester_of_your_cs_education_mit/)
+
+[Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA)
+
+[Corey Schafer's Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+
 
 
 
