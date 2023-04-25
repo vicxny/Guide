@@ -8,7 +8,7 @@
 
 [Introduction to Programming and Computer Science](https://www.youtube.com/watch?v=zOjov-2OZ0E)
 
-[Introduction to Computer Science - Harvard's CS50](https://cs50.harvard.edu/web/2020/)- [Video](https://www.youtube.com/watch?v=vzGllw18DkA)
+[Introduction to Computer Science - Harvard's CS50](https://www.youtube.com/watch?v=8mAITcNt710)- [Video](https://www.youtube.com/watch?v=vzGllw18DkA)
 
 [Building Dynamic Websites - Harvard's CS75](http://cdn.cs75.net/2012/summer/)-[Video](https://www.youtube.com/playlist?list=PLSlcu3sMjsc9QoiHpdEWF246A4eVCjBUQ)
 
