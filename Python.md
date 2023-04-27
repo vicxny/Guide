@@ -10,9 +10,7 @@
 
 [Kaggle](https://www.kaggle.com/learn)
 
-## Goal
-- [ ] [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer#courses)
-- [ ] [Python, Bash and SQL Essentials for Data Engineering Specialization](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke#courses)
+
 
 ##  [Programming For Everybody](https://online.dr-chuck.com/) - [Master Programmer](https://www.youtube.com/watch?v=z3o6yEzcnLc&list=PLCQPtDKqOL2Mw2LqdGfCirOzrnJmMA9hZ&index=5&t=1413s)
 
@@ -23,7 +21,10 @@ Courses | Offered by | Type | Month | Pace | Video | Time |
 [Web Applications for Everybody Specialization](https://www.coursera.org/specializations/web-applications) | University of Michigan | Web Application | Approximately 6 months | 5 hours/week | [Video](https://www.youtube.com/watch?v=xr6uZDRTna0&list=PLCQPtDKqOL2Mw2LqdGfCirOzrnJmMA9hZ&index=4) | 14:29:41 |
 [PostgreSQL for Everybody Specialization](https://www.coursera.org/specializations/postgresql-for-everybody) | University of Michigan | PostgreSQL | Approximately 4 months | 4 hours/week | [Video](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Oj3ndXmNS1FFOUyQP-gEa) |
 
-[Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
+## Goal
+- [ ] [Meta Back-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-back-end-developer#courses)
+- [ ] [Python, Bash and SQL Essentials for Data Engineering Specialization](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke#courses)
+- [ ] [Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming)
 
 ## Structure
 
