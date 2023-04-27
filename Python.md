@@ -3,14 +3,6 @@
 
 [CS50's Introduction to Programming with Python (CS50P) 2022](https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)
 
-[Codeacademy's Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
-
-[HACKBRIGHT PREP COURSE - LEARN PYTHON FUNDAMENTALS](https://hackbrightacademy.com/prep/)
-
-[FreeCodeCamp](https://www.freecodecamp.org/learn) - [Playlist](https://www.youtube.com/c/Freecodecamp/playlists)
-
-[Beyond the Basic Stuff with Python](https://www.youtube.com/playlist?list=PL0-84-yl1fUmeV_2bBSguF_S0TVZk8wow)
-
 [MIT OpenCourseWare - Computer Science](https://www.youtube.com/@mitocw/playlists?view=50&sort=dd&shelf_id=5):
 - [6.0001 Introduction To Computer Science And Programming In Python](https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA) - [Introduction to Algorithms](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb) - [Advance Data Structures](https://www.youtube.com/playlist?list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf) - [Design and Analysis](https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
 
@@ -67,6 +59,7 @@ but I bought more to give myself more practice. But I always do too much.
 
 Video:
 
+[Corey Schafer's Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
 [Freecodecamp - Data Structures and Algorithms in Python - Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA)
 
@@ -120,7 +113,7 @@ Summary
 
 [Python API Development - Comprehensive Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA)
 
-[Corey Schafer's Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
+
 
 
 
