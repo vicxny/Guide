@@ -62,8 +62,6 @@ but I bought more to give myself more practice. But I always do too much.
 
 Video:
 
-[Corey Schafer's Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
-
 [Freecodecamp - Data Structures and Algorithms in Python - Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA)
 
 [Freecodecamp - Algorithms in Python – Full Course for Beginners](https://www.youtube.com/watch?v=fW_OS3LGB9Q)
@@ -71,9 +69,6 @@ Video:
 [Freecodecamp - Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0)
 
 [CodeBasics - Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu_n_a__MI_KktGTLYopZ12)
-
-[LucidProgramming](https://www.youtube.com/@LucidProgramming/playlists)
-
 
 ### If you have tons of extra time:
 
@@ -118,7 +113,8 @@ Summary
 
 [Automate with Python – Full Course for Beginners](https://www.youtube.com/watch?v=PXMJ6FS7llk/)
 
+[LucidProgramming](https://www.youtube.com/@LucidProgramming/playlists)
 
-
+[Corey Schafer's Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
 
