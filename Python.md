@@ -12,7 +12,7 @@
 
 [Kaggle](https://www.kaggle.com/learn)
 
-
+[Python 3 Programming Specialization](https://www.coursera.org/specializations/python-3-programming#courses)
 
 ##  [Programming For Everybody](https://online.dr-chuck.com/) - [Master Programmer](https://www.youtube.com/watch?v=z3o6yEzcnLc&list=PLCQPtDKqOL2Mw2LqdGfCirOzrnJmMA9hZ&index=5&t=1413s)
 
