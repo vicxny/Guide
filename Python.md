@@ -120,4 +120,6 @@ Summary
 
 [Corey Schafer's Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
+[An Introduction to Statistical Learning](https://www.statlearning.com/)
+
 
