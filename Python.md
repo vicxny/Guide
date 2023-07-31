@@ -116,6 +116,8 @@ Summary
 
 [LucidProgramming](https://www.youtube.com/@LucidProgramming/playlists)
 
+[Python Programming for Economics and Finance](https://python-programming.quantecon.org/intro.html)
+
 [Corey Schafer's Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
 
