@@ -57,6 +57,8 @@ Courses | Instructor | Type | Duration |
 You don't need to buy a bunch of these. Honestly "Cracking the Coding Interview" is probably enough, 
 but I bought more to give myself more practice. But I always do too much.
 
+[Grokking Algorithms, Aditya Y. Bhargava](https://livebook.manning.com/book/grokking-algorithms/chapter-1/)
+
 [Runestone - Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html)
 
 [Data Structures and Algorithms in Python](http://xpzhang.me/teach/DS19_Fall/book.pdf)
