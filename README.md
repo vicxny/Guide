@@ -49,7 +49,7 @@ Extra: [The Modern JavaScript Tutorial](https://javascript.info/)
 [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)
 
 
-## Data Stucture and Algorithm
+## Data Structure and Algorithm
 
 
 [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
@@ -97,15 +97,15 @@ Summary:
 
 ## Books
 
-[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
+[Eloquent Javascript](https://eloquentjavascript.net/)
 
 [The Modern JavaScript Tutorial](https://javascript.info/)
 
 [How to Design Programs](http://htdp.org/2003-09-26/)
 
-[Cracking the Coding Interview]()
-
 [The JavaScript Way](https://github.com/thejsway/thejsway)
+
+[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
 
 [HTML and CSS: Design and Build Websites](https://wtf.tw/ref/duckett.pdf)
 
